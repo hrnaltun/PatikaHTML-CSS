@@ -1,0 +1,36 @@
+h1{
+    color:red ;
+    text-align: center;
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+h3{
+    color: goldenrod;
+    text-align: center;
+}
+h4{
+    color: rgb(169, 136, 223);
+}
+nav{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.type{
+    text-align: left;
+    list-style-position: inside;
+    display: inline-block;
+}
+#second-article{
+    text-align: center;
+    
+}
+.animal{
+    list-style-type: none;
+}
+body{
+    background-color: rgb(199, 233, 199);
+}
